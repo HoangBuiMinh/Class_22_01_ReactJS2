@@ -2,3 +2,4 @@ test clone
 git status
 test 3
 
+tôi là A
