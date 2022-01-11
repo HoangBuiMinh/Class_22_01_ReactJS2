@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test clone
 git status
+=======
+buoi 2 git:
+>>>>>>> df27e653f20e9ed35f14cba2b5d3a4590b790960
