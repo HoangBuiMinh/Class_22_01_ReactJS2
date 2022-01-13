@@ -33,3 +33,5 @@ git log: kiếm tra log
 - git pull: update source khi remote có thay đổi. => Tôi là ông A và tôi update tiếp dòng này !
 
 demo lại bằng vscode
+demo lan 2
+
